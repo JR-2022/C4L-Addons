@@ -2,7 +2,7 @@
 
 ## Release 1.0.0 Breaking Changes
 
-**Note:** This is a preliminary version and is still subject to change.
+**Note:** Last update: 16.04.2025. This is a preliminary version and is still subject to change.
 
 ### Consignee order number endpoint
 - Endpoint change:
@@ -71,12 +71,6 @@
         - Schema change: Request body property `expirationDate` renamed to `dateExpired` and type changed from string to number
         - Schema change: Response property `expirationDate` renamed to `dateExpired` and type changed from string to number (also in the nested objects)
         - Schema change: Response property `metaData` is now an array.
-
-### Discrepancy endpoints
-- Permission changes
-    - `GET /organization-sites/{organizationSiteKey}/delivery-notes/{deliveryNoteKey}/articles/{articleKey}/discrepancies`
-    - `GET /organization-sites/{organizationSiteKey}/delivery-notes/{deliveryNoteKey}/articles/{articleKey}/discrepancies/{discrepancyKey}`
-    - Permission change: Consignor and carrier can only access discrepancies if the delivery note is closed.
 
 ### API Keys
 - `POST /api-keys-storage/renew`
