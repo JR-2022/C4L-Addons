@@ -3,4 +3,6 @@ The project "C4L Addons" are extensions for the basic version "Cloud4Log". The a
 
 Here it goes to ["API Dokumentation"](https://dls.addons.cloud4log.dev/api-docs/)
 
-The "breaking changes" can be found in the file "change-log-v1.0.0.md". The deployment is currently planned for 23.04.2025 from 4 to 6 p.m.
+NEW: For the optimal analysis of the delivery notes with the help of our artificial intelligence, it is necessary to recommend guidelines for the content and structure of the delivery notes. The documentation is now available for companies: C4L_Addons_Request_for_Structure_DeliveryNotes_EN.pdf
+
+
