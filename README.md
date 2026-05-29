@@ -9,3 +9,6 @@ NEW: For the optimal analysis of the delivery notes with the help of our artific
 
 !!!New!!! For developers who want to use Cloud4Log or Cloud4lOG addons directly with our API, there is a new, free, limited chat "Cloud4Log Helper". You can ask them for all technical questions about the OPEN API.  
 Link to the "Cloud4Log Helper": https://tobi.cloud4log-addons.com/botapitest
+
+!!!New!!! We have updated the user book with the latest features and can be found as a document at:
+https://github.com/JR-2022/C4L-Addons/blob/main/Anwenderhandbuch_C4L_Addons.pdfen
